@@ -1,0 +1,3 @@
+<a href="images/phototour/hiltonwoodbridge-floorplan-1floor.jpg" rel="lightbox[photo_tour_floorplans]" title="Hilton Woodbridge Hotel: 1st Floor Hotel Center"> &raquo; View Our Floor Plans</a>
+<a href="images/phototour/hiltonwoodbridge-floorplan-2floor.jpg" rel="lightbox[photo_tour_floorplans]" title="Hilton Woodbridge Hotel: 2nd Floor Conference Center"></a>
+<a href="images/phototour/hiltonwoodbridge-floorplan-3floor.jpg" rel="lightbox[photo_tour_floorplans]" title="Hilton Woodbridge Hotel: 3rd Floor Conference Center"></a>

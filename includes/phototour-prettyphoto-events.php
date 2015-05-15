@@ -1,0 +1,5 @@
+<a href="images/phototour/hiltonwoodbridge_cocktail_hallway.jpg" rel="prettyPhoto[phototour_events]" title="Hilton Woodbridge Hotel Events<br>Cocktail Room"><img src="images/tour-events.jpg" width="227" height="90" border="0"></a>
+<a href="images/phototour/hiltonwoodbridge_cocktail2.jpg" rel="prettyPhoto[phototour_events]" title="Hilton Woodbridge Hotel Events<br>Cocktail Room"></a>
+<a href="images/phototour/hiltonwoodbridge_catering_banquettable.jpg" rel="prettyPhoto[phototour_events]" title="Hilton Woodbridge Hotel Events<br>Banquet Catering"></a>
+<a href="images/phototour/hiltonwoodbridge_ballroom.jpg" rel="prettyPhoto[phototour_events]" title="Hilton Woodbridge Hotel Events<br>Ballroom"></a>
+<a href="images/phototour/hiltonwoodbridge_ceremony.jpg" rel="prettyPhoto[phototour_events]" title="Hilton Woodbridge Hotel Events<br>Ceremony Room"></a>

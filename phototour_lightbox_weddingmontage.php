@@ -1,0 +1,1 @@
+<a href="http://video.google.com/videoplay?docid=-4723784610084397076" title="Weddings in the Hilton Tradition" rel="vidbox 320 240"><img src="images/wedding-montage-banner.jpg" alt="Weddings in the Hilton Tradition" width="200" height="350" border="0"></a>
