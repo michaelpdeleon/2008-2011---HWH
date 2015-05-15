@@ -6,9 +6,9 @@
 # Technologies:  
 Photoshop, Dreamweaver, HTML4, CSS2, jQuery plugin
 # Description:  
-This website was meant to give information about this newly formed research and development laboratory.  It shows the personnel and their publications as well as the type of research they are conducting which hopefully attracts other experts in this field to join their work.  
+This website is meant to give information to hotel guests regarding the amenities and services available.  It also gives out information regarding upcoming special events, promotions and deals throughout the year.  
 
-I mostly oversaw the maintenance and updates to the events section, updated the event calendars and created landing pages to said events.  I also installed and customized a jQuery plugin called prettyPhoto which is a lightbox clone.  It presents pictures and videos with style. 
+I oversaw the maintenance and updates to the events section, updated the event calendars and created landing pages to said events.  I also installed and customized a jQuery plugin called prettyPhoto which is a lightbox clone.  It presents pictures and videos in a new way. 
 # Screenshots:
 ![Screenshot](github/github_screenshot_hwh1.jpg)  
 
