@@ -8,7 +8,7 @@ Photoshop, Dreamweaver, HTML4, CSS2, jQuery plugin
 # Description:  
 This website is meant to give information to hotel guests regarding the amenities and services available.  It also gives out information regarding upcoming special events, promotions and deals throughout the year.  
 
-I oversaw the maintenance and updates to the events section, updated the event calendars and created landing pages to said events.  I also installed and customized a jQuery plugin called [prettyPhoto - http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/) which is a lightbox clone.  It presents pictures and videos in a new way. 
+I oversaw the maintenance and updates to the events section, updated the event calendars and created landing pages to said events.  I also installed and customized a jQuery plugin called [prettyPhoto - http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/) which is a lightbox clone.  It presents pictures and videos with flair. 
 # Screenshots:
 ![Screenshot](github/github_screenshot_hwh1.jpg)  
 
